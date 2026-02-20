@@ -8,7 +8,7 @@ const projects = [
     description:
       "E-commerce desarrollado en React utilizando Redux Toolkit y Firebase Database. Permite la simulación de un proceso de compra completo, incluyendo la selección de productos, gestión del carrito, y finalización de la compra. El proyecto se enfoca en ofrecer una experiencia de usuario fluida y eficiente, con un diseño moderno y responsive.",
     technologies: ["React", "Firebase", "React-Redux"],
-    image: "/banner.png",
+    image: "/portfolio/banner.png",
     url: "https://ecommerce-react-coderhouse.netlify.app/"
   }
 ]

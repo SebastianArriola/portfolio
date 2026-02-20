@@ -29,7 +29,7 @@ export default function Home() {
               </p>
               <div className="mt-6">
                 <Button asChild variant="outline" size="lg" className="gap-2 border-primary/30 text-foreground hover:bg-primary/10 hover:text-primary">
-                  <a href="/Sebastian_Arriola_CV.pdf" download>
+                  <a href="/portfolio/Sebastian_Arriola_CV.pdf" download>
                     <FileText className="size-4" />
                     Descargar Curriculum
                   </a>
