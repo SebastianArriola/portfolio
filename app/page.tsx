@@ -4,7 +4,6 @@ import { AboutSection } from "@/components/portfolio/about-section"
 import { ExperienceSection } from "@/components/portfolio/experience-section"
 import { ProjectsSection } from "@/components/portfolio/projects-section"
 import { Spotlight } from "@/components/portfolio/spotlight"
-import { Footer } from "@/components/portfolio/footer"
 import { Button } from "@/components/ui/button"
 import { FileText } from "lucide-react"
 
