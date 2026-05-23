@@ -35,9 +35,9 @@ export default function Home() {
                   </a>
                 </Button>
               </div>
-              <div className="mt-16">
+              {/* <div className="mt-16">
                 <Nav />
-              </div>
+              </div> */}
             </div>
             <div className="mt-8 lg:mt-0">
               <Socials />
@@ -49,7 +49,7 @@ export default function Home() {
             <div className="flex flex-col gap-24 lg:gap-36">
               {/* <AboutSection /> */}
               <ExperienceSection />
-              <ProjectsSection />
+              {/* <ProjectsSection /> */}
             </div>
           </main>
         </div>
